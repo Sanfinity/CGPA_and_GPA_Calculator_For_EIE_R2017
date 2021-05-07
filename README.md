@@ -1,5 +1,5 @@
 # CGPA_and_GPA_Calculator_For_EIE_R2017
-I have created this python File to find your individual Semester GPA or For finding all Semesters CGPA
+I have created this python File to find your individual Semester GPA or For finding all Semesters CGPA (Have recently commented the labs in 5th semesters as it is currently been done)
 
 **Steps to Use:**
   - Just Extract the EIE_r2017_cgpa_Calculator.py file 
